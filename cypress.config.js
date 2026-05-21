@@ -1,6 +1,8 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
+  projectId: "zcwuva",
+
   env: {
     searchKeyword: "Honda",
     authToken: "mock-token-123",
