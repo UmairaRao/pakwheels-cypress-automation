@@ -1,0 +1,23 @@
+[
+  {
+    "keyword": "Honda",
+    "expected": "Honda Civic 2020",
+    "city": "Lahore",
+    "minPrice": 5000000,
+    "maxPrice": 7000000
+  },
+  {
+    "keyword": "Toyota",
+    "expected": "Toyota Corolla 2021",
+    "city": "Karachi",
+    "minPrice": 4000000,
+    "maxPrice": 6500000
+  },
+  {
+    "keyword": "Suzuki",
+    "expected": "Suzuki Alto 2022",
+    "city": "Islamabad",
+    "minPrice": 2000000,
+    "maxPrice": 3000000
+  }
+]
